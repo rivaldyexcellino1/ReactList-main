@@ -1,0 +1,10 @@
+.col-lg-6>.kartu{
+    background-color: rgba(0, 0, 0, 0.466);
+    box-shadow: 0 0 20px 10px rgba(255, 255, 255, 0.409);
+    height: 220px;
+    width: 500px;
+}
+
+.col-lg-6>.kartu>.card-body>.col-7{
+    margin-top: 20px;
+}
